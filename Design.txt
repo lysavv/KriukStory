@@ -1,0 +1,152 @@
+🏠 Judul Website: “KriukStory”
+
+(Kamu bisa ganti nama sesuai brand kamu — misal: “Dapur Lysa” atau “Cemilan Sayang”)
+Tagline: “Renyah dari Dapur ke Meja Kamu”
+
+🎨 Tema Warna & Gaya Visual
+
+Warna utama: krem lembut, cokelat muda, dan sedikit hijau daun (memberi kesan alami & homemade)
+
+Warna aksen: oranye pastel / kuning muda (mewakili warna keripik renyah)
+
+Font: bergaya hangat dan ramah seperti Poppins atau Nunito
+
+Gaya foto: foto close-up produk dengan pencahayaan alami (biar menggugah selera)
+
+📋 Struktur Halaman Website
+🧁 1. Beranda (Home)
+
+Header bagian atas:
+
+Logo “Kriuk Rumahanku” di kiri
+
+Menu navigasi: Home | Tentang | Produk | Pemesanan | Galeri | Kontak
+
+Tombol “Pesan Sekarang” yang menonjol di pojok kanan atas
+
+Hero Section (bagian pembuka):
+
+Foto besar camilan crispy di atas meja kayu
+
+Teks besar:
+
+“Renyah, Gurih, dan 100% Homemade”
+“Langsung dari dapur kami ke meja kamu.”
+
+Tombol interaktif: “Lihat Produk” dan “Order Sekarang”
+
+Bagian keunggulan singkat (3 kolom icon):
+
+🏡 Homemade Asli
+
+🌿 Bahan Alami & Segar
+
+🚚 Pengiriman Cepat & Aman
+
+👩‍🍳 2. Tentang Kami (About Us)
+
+Cerita singkat tentang usaha homemade kamu, misalnya:
+
+“Kriuk Rumahanku berawal dari dapur kecil keluarga yang gemar membuat camilan renyah. Dengan resep turun-temurun dan bahan alami, kami ingin menghadirkan rasa hangat buatan rumah untuk semua orang.”
+
+Tambahkan foto kamu / dapur / proses pembuatan camilan (biar terasa personal).
+
+Bisa disertai video pendek “behind the scene” proses pembuatan.
+
+🍠 3. Produk (Shop / Produk Kami)
+
+Tampilkan daftar produk dalam bentuk kartu interaktif:
+
+Gambar produk
+
+Nama produk (contoh: Keripik Singkong Balado, Pisang Crispy Cokelat)
+
+Deskripsi singkat (rasa, ukuran, berat, bahan alami)
+
+Harga
+
+Tombol “Tambah ke Keranjang” / “Pesan Sekarang”
+
+Tambahkan filter produk:
+
+Berdasarkan rasa: pedas, manis, gurih
+
+Berdasarkan bahan: singkong, pisang, tempe
+
+🛒 4. Halaman Pemesanan (Order / Checkout)
+
+Form interaktif untuk memesan:
+
+Pilih produk (dropdown)
+
+Jumlah pesanan
+
+Nama lengkap
+
+Alamat pengiriman
+
+Nomor HP / WhatsApp
+
+Catatan tambahan (misal: “tanpa terlalu pedas”)
+
+Tombol “Kirim Pesanan via WhatsApp” (terhubung otomatis ke chat WA dengan format pesan pesanan)
+
+Bisa juga ada pilihan pembayaran (QRIS, COD, transfer).
+
+📸 5. Galeri (Gallery)
+
+Tampilan grid foto kegiatan & produk:
+
+Proses produksi, kemasan, pelanggan, event, dll.
+
+Tambahkan animasi lembut (misal saat kursor diarahkan ke foto muncul teks “Keripik Balado – Best Seller”).
+
+Tombol “Lihat Semua” untuk membuka galeri penuh.
+
+📰 6. Info & Artikel
+
+Berisi tips ringan atau cerita seputar camilan:
+
+“Cara Menyimpan Keripik Agar Tetap Renyah”
+
+“Kisah di Balik Rasa Balado Kami”
+
+“Kenapa Snack Homemade Lebih Sehat?”
+
+Menunjukkan kalau brand kamu bukan hanya jualan, tapi juga berbagi cerita dan nilai.
+
+📞 7. Kontak / Footer
+
+Bagian bawah situs berisi:
+
+Nomor WhatsApp / Instagram / TikTok
+
+Alamat dapur / toko kamu
+
+Jam operasional
+
+Kolom “Kirim Pesan” langsung
+
+Footer juga bisa berisi link cepat: Home | Produk | Order | FAQ
+
+Tambahkan peta mini (Google Maps) kalau kamu punya lokasi fisik.
+
+💡 Fitur Interaktif yang Bisa Ditambahkan
+
+🔄 Animasi hover: saat mouse diarahkan ke foto produk, muncul efek perbesaran halus.
+
+💬 Chat bubble WhatsApp: selalu muncul di pojok kanan bawah.
+
+🧺 Mini cart / keranjang: muncul icon di pojok kanan atas untuk melihat daftar pesanan.
+
+⭐ Review pelanggan: tampilkan ulasan dan foto pelanggan.
+
+📦 Notifikasi real-time: contoh “Seseorang baru saja memesan Keripik Balado!”
+
+✨ Bonus Ide Tambahan
+
+Pop-up promosi: muncul promo spesial, misalnya “Diskon 10% untuk pembelian pertama!”
+
+Mode gelap (dark mode) agar tampilan bisa disesuaikan pengguna.
+
+Program loyalitas: “Kumpulkan 5 pembelian, gratis 1 kemasan kecil.”

@@ -19,7 +19,7 @@
         <section class="hero-new">
             <div class="container">
                 <div class="hero-text">
-                    <h1>Renyahnya Bikin Ceria!</h1>
+                    <h1>Renyahnya Bikin Nagih!</h1>
                     <p>Camilan homemade kualitas premium, dibuat dengan bahan-bahan segar pilihan dan resep rahasia yang bikin harimu makin asyik.</p>
                     <a href="produk.php" class="btn btn-secondary">Lihat Semua Produk</a>
                 </div>
